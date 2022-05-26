@@ -1,0 +1,58 @@
+DateTime            | Product | Slot | AmountAccepted | Balance
+02-14-2022 01:52 PM | Cloud Popcorn | A4   | $10.00 | $6.35
+02-14-2022 01:52 PM | ChangeTendered | N/A | $6.35 | 0.00
+02-14-2022 03:11 PM | Wonka Bar | B3   | $6.00 | $4.50
+02-14-2022 03:18 PM | ChangeTendered | N/A | $.00 | 0.00
+02-14-2022 03:28 PM | Potato Crisps | A1   | $10.00 | $6.95
+02-14-2022 03:30 PM | ChangeTendered | N/A | $6.95 | 0.00
+02-14-2022 09:16 PM | Cloud Popcorn | A4   | $15.00 | $11.35
+02-14-2022 09:19 PM | Cloud Popcorn | A4   | $6.00 | $2.35
+02-14-2022 09:19 PM | ChangeTendered | N/A | $2.35 | 0.00
+02-14-2022 09:54 PM | Wonka Bar | B3   | $3.00 | $1.50
+02-14-2022 09:55 PM | ChangeTendered | N/A | $1.50 | 0.00
+02-14-2022 10:02 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 10:17 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 10:21 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 10:34 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 10:36 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 11:13 PM | Triplemint | D4   | $4.00 | $3.25
+02-14-2022 11:13 PM | Mountain Melter | C3   | $2.00 | $.50
+02-16-2022 03:25 PM | Triplemint | D4   | $4.00 | $3.25
+02-16-2022 03:32 PM | Mountain Melter | C3   | $2.00 | $.50
+02-16-2022 03:33 PM | U-Chews | D1   | $1.00 | $.15
+02-16-2022 03:34 PM | Potato Crisps | A1   | $4.00 | $.95
+02-16-2022 03:36 PM | Cloud Popcorn | A4   | $4.00 | $.35
+02-16-2022 03:39 PM | Stackers | A2   | $4.00 | $2.55
+02-16-2022 03:39 PM | ChangeTendered | N/A | $2.55 | 0.00
+02-16-2022 03:39 PM | Grain Waves | A3   | $4.00 | $1.25
+02-16-2022 03:39 PM | ChangeTendered | N/A | $1.25 | 0.00
+02-16-2022 03:39 PM | Grain Waves | A3   | $4.00 | $1.25
+02-16-2022 03:39 PM | ChangeTendered | N/A | $1.25 | 0.00
+02-16-2022 03:40 PM | Cloud Popcorn | A4   | $4.00 | $.35
+02-16-2022 03:40 PM | ChangeTendered | N/A | $.35 | 0.00
+02-16-2022 03:40 PM | Moonpie | B1   | $4.00 | $2.20
+02-16-2022 03:40 PM | ChangeTendered | N/A | $2.20 | 0.00
+02-16-2022 03:40 PM | Cowtales | B2   | $4.00 | $2.50
+02-16-2022 03:40 PM | ChangeTendered | N/A | $2.50 | 0.00
+02-16-2022 03:40 PM | Wonka Bar | B3   | $4.00 | $2.50
+02-16-2022 03:40 PM | ChangeTendered | N/A | $2.50 | 0.00
+02-16-2022 03:41 PM | Crunchie | B4   | $4.00 | $2.25
+02-16-2022 03:41 PM | ChangeTendered | N/A | $2.25 | 0.00
+02-16-2022 03:41 PM | Cola | C1   | $4.00 | $2.75
+02-16-2022 03:41 PM | ChangeTendered | N/A | $2.75 | 0.00
+02-16-2022 03:41 PM | Dr. Salt | C2   | $4.00 | $2.50
+02-16-2022 03:41 PM | ChangeTendered | N/A | $2.50 | 0.00
+02-16-2022 03:41 PM | Mountain Melter | C3   | $4.00 | $2.50
+02-16-2022 03:41 PM | ChangeTendered | N/A | $2.50 | 0.00
+02-16-2022 03:42 PM | Heavy | C4   | $4.00 | $2.50
+02-16-2022 03:42 PM | ChangeTendered | N/A | $2.50 | 0.00
+02-16-2022 03:42 PM | Potato Crisps | A1   | $4.00 | $.95
+02-16-2022 03:42 PM | ChangeTendered | N/A | $.95 | 0.00
+02-16-2022 03:43 PM | Little League Chew | D2   | $4.00 | $3.05
+02-16-2022 03:43 PM | ChangeTendered | N/A | $3.05 | 0.00
+02-16-2022 03:43 PM | Chiclets | D3   | $4.00 | $3.25
+02-16-2022 03:43 PM | ChangeTendered | N/A | $3.25 | 0.00
+02-16-2022 03:43 PM | Chiclets | D3   | $4.00 | $3.25
+02-16-2022 03:43 PM | ChangeTendered | N/A | $3.25 | 0.00
+02-16-2022 03:43 PM | U-Chews | D1   | $4.00 | $3.15
+02-16-2022 03:44 PM | ChangeTendered | N/A | $3.15 | 0.00
